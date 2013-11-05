@@ -1,0 +1,11 @@
+#test {background-color:black;
+					color: snow;
+					text-align:center;}
+p {font-size:50px;
+    color:white;
+　}
+div#a {background-color:snow;
+	width:200px; 
+	margin-left:auto;
+	margin-right:auto;}	
+#a:hover{background-color:red;}             
